@@ -1,0 +1,13 @@
+html
+  head
+    title= 'redirect'
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+  body
+  if type == 'default'
+    center(style={color: '#aaa'}) 
+      | 缺少url参数，你可以将 
+      | <b>/?url=<网址></b>
+      | 加到链接后面，即可实现微信跳转
+  else
+    img(src='images/live_wx.png', style={width: '100%'})
+    center(style={color: '#aaa'}) 请点击右上角从浏览器打开

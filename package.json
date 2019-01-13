@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "pug": "^2.0.3"
+  },
+  "name": "weredirect",
+  "version": "1.0.0",
+  "description": "在微信自带浏览器中跳转的引导页",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "axiref",
+  "license": "MIT"
+}
