@@ -4,6 +4,10 @@
 在微信浏览器中访问
 `http://<项目地址>/?url=<要跳转到的网址>`
 
+微信打开效果:
+
+![](https://ws4.sinaimg.cn/large/007cAKxyly1fz54ewq7eoj30b40jsmxi.jpg)
+
 # 搭建
 ```bash
 git clone https://github.com/axiref/weredirect.git
